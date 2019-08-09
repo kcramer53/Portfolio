@@ -1,0 +1,72 @@
+/* p.intro{
+  width: 50%;
+  font-style: italic;
+}
+.author{
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+} */
+body{
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #ccccff;
+}
+li{
+justify-content: center;
+}
+#email{
+margin-top: 120px;
+}
+#cupcake2{
+  width: 30%;
+  margin: auto;
+  float: left;
+  margin-right: 30px;
+}
+.incolumnpic{
+  border: 5px solid darkgreen;
+  padding: 5px;
+  width: 50%;
+  height: 100%;
+}
+.important{
+  font-style: oblique;
+}
+.infosection{
+  width: 80%;
+}
+.importantsentence{
+  color: darkgreen;
+}
+.firstlist{
+  margin-top: 50px;
+}
+.secondlist{
+  margin-right: 30px;
+}
+.column1{
+  height: 300px;
+  width: 50%;
+  float: left;
+  margin-bottom: 50px;
+}
+.column2{
+  height: 300px;
+  width: 50%;
+  float: right;
+  margin-bottom: 50px;
+}
+@media screen and (max-width: 768px) and (min-width: 600px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: teal;
+  }
+}
