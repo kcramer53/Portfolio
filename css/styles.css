@@ -7,11 +7,31 @@ body{
 li{
 justify-content: center;
 }
+h1{
+  text-align: center;
+  justify-content: center;
+}
+.container{
+  justify-content: center;
+  font-size: 30px;
+  text-align: center;
+}
+.container1{
+  font-size: 30px;
+}
 #email{
-margin-top: 120px;
+margin-top: 50px;
 }
 .important{
+  text-align: center;
+  color: solid darkgreen;
   font-style: oblique;
+}
+.zevy{
+  border: 5px solid darkgreen;
+  padding: 50px;
+  width: 50%;
+  height: 100%;
 }
 .central{
   border: 5px solid darkgreen;
@@ -20,8 +40,13 @@ margin-top: 120px;
   height: 100%;
 }
 .jumbotron{
-  border-radius: 25px solid darkgreen;
-  padding: 10px;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+  border: 5px solid darkgreen;
+  padding: 50px;
+  width: 50%;
+  height: 100%;
 }
 }
 @media screen and (max-width: 768px) and (min-width: 600px) {
