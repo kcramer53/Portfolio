@@ -19,6 +19,11 @@ h1{
 .container1{
   font-size: 30px;
 }
+.container2{
+  margin-top: auto;
+  padding-top: 50px;
+  justify-content: space-around;
+}
 #email{
 margin-top: 50px;
 }
@@ -32,6 +37,9 @@ margin-top: 50px;
   padding: 50px;
   width: 50%;
   height: 100%;
+  float: right;
+  margin-bottom: 50px;
+
 }
 .central{
   border: 5px solid darkgreen;
