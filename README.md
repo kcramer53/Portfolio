@@ -1,5 +1,5 @@
 Portfolio Page
-This site is designed to showcase the work I have done as a student at Epicodus and also to give insigt to me and who I am., 8/9/2019
+This site is designed to showcase the work I have done as a student at Epicodus and also to give insight to me and who I am., 8/9/2019
 By Kirsten Cramer Putman
 Description
 Portfolio landing Page.
