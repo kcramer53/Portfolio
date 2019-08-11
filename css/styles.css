@@ -42,7 +42,7 @@ margin-top: 50px;
   width: 50%;
   height: 100%;
   float: right;
-  margin-bottom: 50px;
+  margin: 50px;
 }
 
 .contact {
@@ -54,6 +54,7 @@ margin-top: 50px;
   padding: 5px;
   width: 50%;
   height: 100%;
+
 }
 
 .jumbotron {
