@@ -1,35 +1,42 @@
-body{
+body {
   text-align: left;
   margin-left: 40px;
   margin-right: 40px;
   background-color: #ccccff;
 }
-h1{
+
+h1 {
   text-align: center;
   justify-content: center;
 }
-.container{
+
+.container {
   justify-content: center;
   font-size: 30px;
   text-align: center;
 }
-.container1{
+
+.container1 {
   font-size: 30px;
 }
-.container2{
+
+.container2 {
   margin-top: auto;
   padding-top: 50px;
   justify-content: space-around;
 }
-#email{
+
+#email {
 margin-top: 50px;
 }
-.important{
+
+.important {
   text-align: center;
   color: solid darkgreen;
   font-style: oblique;
 }
-.zevy{
+
+.zevy {
   border: 5px solid darkgreen;
   padding: 50px;
   width: 50%;
@@ -37,16 +44,19 @@ margin-top: 50px;
   float: right;
   margin-bottom: 50px;
 }
-.contact{
+
+.contact {
   font-style: oblique;
 }
-.central{
+
+.central {
   border: 5px solid darkgreen;
   padding: 5px;
   width: 50%;
   height: 100%;
 }
-.jumbotron{
+
+.jumbotron {
   text-align: center;
   margin: auto;
   justify-content: center;
@@ -55,12 +65,13 @@ margin-top: 50px;
   width: 50%;
   height: 100%;
 }
-}
+
 @media screen and (max-width: 768px) and (min-width: 600px) {
   body {
     background-color: black;
     color: white;
   }
+
 }
 @media screen and (max-width: 480px) {
   body {
