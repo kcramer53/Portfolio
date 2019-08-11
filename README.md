@@ -4,10 +4,10 @@ This site is designed to showcase the work I have done as a student at Epicodus 
 
 By Kirsten Cramer Putman
 
-Description
+Description:
 Portfolio landing Page.
 
-Setup/Installation Requirements
+Setup/Installation Requirements:
 Open site in browser of your choosing and view the material.
 https://kcramer53.github.io/portfolio.github
 
@@ -15,13 +15,13 @@ https://kcramer53.github.io/portfolio.github
 Known Bugs:
 No know bugs or issues.
 
-Support and contact details
+Support and contact details:
 This application is supported by Kirsten and Epicodus.
 
-Technologies Used
+Technologies Used:
 css, html, stylings in css and bootstrap.
 
-License
+License:
 Licensed by MIT.
 
 Copyright (c) 2019 Kirsten Cramer Putman Copyright Holder All Rights Reserved.
