@@ -12,8 +12,8 @@ Open site in browser of your choosing and view the material.
 https://kcramer53.github.io/portfolio.github
 
 
-Known Bugs
-No know bugs.
+Known Bugs:
+No know bugs or issues.
 
 Support and contact details
 This application is supported by Kirsten and Epicodus.
