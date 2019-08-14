@@ -9,7 +9,7 @@ Portfolio landing Page.
 
 Setup/Installation Requirements:
 Open site in browser of your choosing and view the material.
-https://kcramer53.github.io/portfolio.github
+https://kcramer53.github.io/Portfolio
 
 
 Known Bugs:
